@@ -12,7 +12,7 @@ docopt==0.6.2
 et-xmlfile==1.0.1
 exrex==0.10.5
 fire==0.3.1
-idna==2.9
+idna==3.7
 jdcal==1.4.1
 loguru==0.4.1
 multidict==4.7.5
