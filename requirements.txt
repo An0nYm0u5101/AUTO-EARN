@@ -45,7 +45,7 @@ tablib==1.1.0
 tenacity==6.2.0
 termcolor==1.1.0
 tldextract==2.2.2
-tqdm==4.46.0
+tqdm==4.66.3
 typing-extensions==3.7.4.2
 urllib3==1.25.9
 visitor==0.1.3
